@@ -26,6 +26,7 @@ Using Weaviate, the system performs fast Approximate Nearest Neighbour (ANN) sea
 
 📊 Data Source
 
+https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db?resource=download
 The dataset is based on Spotify-style audio features, containing numerical attributes such as:
 	•	danceability
 	•	energy
